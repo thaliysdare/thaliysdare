@@ -24,7 +24,7 @@ Já estou na batalha 🥷 contra os bugs a alguns anos(7), já passei por full b
 - **Desenvolvimento Web e Backend:**
   - ASP.NET Framework & .NET Core (meus parceiros diários no FullStack)
   - Minimal API (simplificando as coisas)
-  - Hangfire (para agendar aquelas tarefas background)
+  - [Hangfire](https://github.com/thaliys/hangfire-project) (para agendar aquelas tarefas background)
   - MediatoR (orquestrando o fluxo das mensagens)
 
 - **Infra e Serviços:**
