@@ -23,7 +23,7 @@ Nos últimos anos, venho aprimorando minhas habilidades técnicas e desenvolvend
 ### 📂 Portfólio & Projetos  
 Aqui estão alguns repositórios que representam minha trajetória de aprendizado e experiências:  
 
-📌 **[Hangfire](https://github.com/thaliysdare/API.Hangfire)** – Implementação do Hangfire para agendamentos de tarefas em .NET  
+📌 **[Hangfire](https://github.com/thaliysdare/api-hangfire)** – Implementação do Hangfire para agendamentos de tarefas em .NET  
 📌 **[ASPNET com sessão em Redis](https://github.com/thaliysdare/aspnet8-sessao-redis)** – Projeto ASPNET com uso de sessão distribuida com Redis  
 
 (💡 **Vou atualizando conforme for evoluindo meus estudos!**)  
