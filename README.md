@@ -1,42 +1,37 @@
-### Olá galerinha! 👋
+## 👋 Olá! Seja bem-vindo ao meu perfil  
 
-👨‍💻 Eu sou o Thaliys, apenas um programador com um sonho e vários bug's misteriosos. 🥲 
+### 👨‍💻 Sobre mim  
 
-Bom, falando sobre mim 😁!
+Sou **Thaliys**, desenvolvedor fullstack com mais de **7 anos de experiência** em tecnologias como **C# (ASP.NET Framework/Core), Java e desenvolvimento mobile (Android)**.  
+Atualmente, atuo como **desenvolvedor no Tribunal de Contas do Estado do Espírito Santo (TCE-ES)**, trabalhando com **.NET e tecnologias de front-end modernas**.  
 
-Capixaba 🏖️, flamenguista ⚽ e as vezes levo uns socos no muaythai 👊. 
+Possuo **graduação em Sistemas de Informação** e **pós-graduação em FullStack**, além de experiência prática em **arquitetura de software, boas práticas e resolução de problemas complexos**.  
 
-Atualmente estou mestrando informática na UFES, mas também cursei pós graduação em fullStack na PUC-MG, graduação de sistema de informação na FABRA e o bom e velho técnico em informática (carinha do TI 😂).
+Nos últimos anos, venho aprimorando minhas habilidades técnicas e desenvolvendo um olhar mais estratégico para **arquitetura, boas práticas e liderança técnica**, preparando-me para atuar como **Tech Lead**.  
 
-Já estou na batalha 🥷 contra os bugs a alguns anos(7), já passei por full back-end, me arrisquei por várias vezes em mobile com android e atualmente sou programador na instituição pública Tribunal de Contas do Estado do Espírito Santo (TCEES), atuo como fullStack com predominância na linguagem C#, tanto aspnet framework quanto dotnet core. Ah, não fiquei apenas no C#, também discutir algumas vezes com nosso saudoso JAVÃO!
+---
 
-## Tecnologias e Ferramentas que já tive a oportunidade de quebrar a cabeça 😅:
+### 🚀 Tecnologias e Especialidades  
+🔹 **Back-end:** C# (.NET Core, ASP.NET Framework), Java  
+🔹 **Front-end:** Angular, React, JavaScript, TypeScript  
+🔹 **Banco de Dados:** SQL Server, PostgreSQL  
+🔹 **DevOps & Cloud:** Docker, Azure, GitHub Actions, CI/CD  
+🔹 **Metodologias:** Clean Architecture, DDD, SOLID, Design Patterns  
 
-- **Linguagens de Programação:**
-  - C# (meu xodó ❤️)
-  - Java (já bati de frente com ele várias vezes)
-  - Python (quando precisei de scripts rápidos e certeiros)
+---
 
-- **Desenvolvimento Mobile:**
-  - Android (brincando de criar apps)
-  - JetPacks (fazendo o ciclo de vida mais interessante)
+### 📂 Portfólio & Projetos  
+Aqui estão alguns repositórios que representam minha trajetória de aprendizado e experiências:  
 
-- **Desenvolvimento Web e Backend:**
-  - ASP.NET Framework & .NET Core (meus parceiros diários no FullStack)
-  - Minimal API (simplificando as coisas)
-  - [Hangfire](https://github.com/thaliysdare/API.Hangfire) (para agendar aquelas tarefas background)
-  - MediatoR (orquestrando o fluxo das mensagens)
+📌 **[Hangfire](https://github.com/thaliysdare/API.Hangfire)** – Implementação do Hangfire para agendamentos de tarefas em .NET  
+📌 **[ASPNET com sessão em Redis](https://github.com/thaliysdare/aspnet8-sessao-redis)** – Projeto ASPNET com uso de sessão distribuida com Redis  
 
-- **Infra e Serviços:**
-  - IIS (configurando o servidor como se fosse fácil)
-  - SQL Server (consultas, views, procedures, tudo que banco tem direito)
-  - Service Bus (mensagens e filas, nada me escapa)
-  - Windows Service (mantendo serviços rodando nas sombras)
+(💡 **Vou atualizando conforme for evoluindo meus estudos!**)  
 
-- **Outras Ferramentas e Frameworks:**
-  - Apache Camel (integrações que vão e voltam)
-  - ServiceBus (filas e mensagens, organizando o tráfego)
+---
 
+### 🔥 Um pouco além do código  
+Quando não estou codando, gosto de acompanhar futebol ⚽, treinar Muay Thai 👊 e aproveitar a vida 🏖️.  
 
 <!--
 **thaliysdare/thaliysdare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
