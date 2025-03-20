@@ -25,7 +25,7 @@ Aqui estão alguns repositórios que representam minha trajetória de aprendizad
 
 📌 **[Hangfire](https://github.com/thaliysdare/api-hangfire)** – Implementação do Hangfire para agendamentos de tarefas em .NET  
 📌 **[ASPNET com sessão em Redis](https://github.com/thaliysdare/aspnet8-sessao-redis)** – Projeto ASPNET com uso de sessão distribuida com Redis  
-📌 **[Blog feito com React](https://github.com/thaliysdare/blog-react)** – Projeto de Blog utilizando react com framework front-end 
+📌 **[Blog + React + Vite](https://github.com/thaliysdare/blog-react)** – Projeto de Blog utilizando react com framework front-end 
 
 (💡 **Vou atualizando conforme for evoluindo meus estudos!**)  
 
